@@ -9,10 +9,8 @@ body {
 }
 table, th, td {
   border: 3px red;
-  ;
   border-collapse: collapse;
   border-style: solid;
-
   font-weight: normal;
   font-size: 20;
 
