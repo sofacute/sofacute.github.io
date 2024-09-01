@@ -1,6 +1,6 @@
 #!/bin/bash
 
-image_dir="./diary/022024"
+image_dir="./diary/06782024"
 
 html_file="gallery.html"
 
