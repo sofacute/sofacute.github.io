@@ -1,6 +1,6 @@
 #!/bin/bash
 
-image_dir="./06782024"
+image_dir="./091011122024"
 
 html_file="gallery.html"
 
@@ -10,7 +10,7 @@ for image in "$image_dir"/*; do
     # Check if the file is an image
     if [[ -f "$image" && $(file -b --mime-type "$image") =~ ^image/ ]]; then
         # Write the image tag to the HTML file
-        echo "<img src=\"$image\" loading="lazy"\"><br>" >> "$html_file"
+        echo "<br><img src=\"$image\" loading="lazy"\"></br>" >> "$html_file"
     fi
 done
 
