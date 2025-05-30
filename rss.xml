@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>SOFA YOGURT200</title>
+		<link>https://yogurt200.com</link>
+		<description>a pink rabbit makes a lot of art</description>
+
+		<item>
+		<title>NEW GALLERY for PAINTINGS & DRAWINGS!!</title>
+		<link>https://yogurt200.com/rgbpaw/gallery/index.html</link>
+		<description>featuring many new stuff. will be updating it with future artwork. </descriptopn>
+		</item>
+
+		<item>
+		<title>INFORMATION BOOTH</title>
+		<link>https://yogurt200.com/information/index.html</link>
+		<description>F.A.Q, bio & more. some writing on some topics</description>
+		</item>
+
+		<item>
+		<title>TWO BLOGS: NEWS BLOG & PINK RABBIT BLOG</title>
+		<link>https://yogurt200.com</link>
+		<description>a page specifically for updates on website & art, and a blog for personal things, art-post</description>
+		</item>
+
+	</channel>
+</rss>	

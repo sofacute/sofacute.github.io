@@ -8,10 +8,11 @@ body {
   font-family: Times;
 }
 table, th, td {
-  border: 3px red;
+  border: 2px red;
   border-collapse: collapse;
-  border-style: solid;
+  border-style: 2px solid red;
   font-weight: normal;
   font-size: 20;
+  padding: 20;
 
 }

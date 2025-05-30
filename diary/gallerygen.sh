@@ -1,6 +1,6 @@
 #!/bin/bash
 
-image_dir="./0102032025"
+image_dir="./oct2023"
 
 html_file="newgallery.html"
 

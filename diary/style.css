@@ -3,9 +3,10 @@
    "how to change link color." */
 
 body {
-  background-color: #fff6c4 ;
+  background-color: cornsilk ;
   color: blue;
-	font-size: 35;
+  letter-spacing: 4;
+  font-size: 35;
   font-family: Times;
 }
 table, th, td {
