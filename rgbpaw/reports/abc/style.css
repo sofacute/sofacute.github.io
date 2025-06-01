@@ -8,27 +8,27 @@ table, td{
 	    border-collapse: collapse;
 		       
 			border: 1px solid blue;
+			background-color:lightcyan;
 			padding: 20
 		}
 th{
 	    		border-collapse: collapse;
 		        border: 2px solid blue;
 			color:blue;
-			background-color:#fff6c4;
-			padding: 6
+			background-color:lightcyan;
+			padding: 8
 		}
 
-	}
 
-
-	h1,h2{
-			    background-color:darkred;
-			    color:red;
+h1,h2{
+	background-color:darkred;
+	color:red;
 			}
 body{
 	font-family:Times;
 	letter-spacing:3px;
 }
+
 div{
 	    #font-size:20;
             background-color:#fff8dc;
