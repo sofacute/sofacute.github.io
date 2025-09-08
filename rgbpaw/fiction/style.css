@@ -1,0 +1,47 @@
+<style>
+
+table{
+	 border-collapse: collapse;
+	        border: 1px solid blue;
+	}
+table, td{
+	    border-collapse: collapse;
+		       
+			border: 1px solid blue;
+			padding: 20
+		}
+th{
+	    		border-collapse: collapse;
+		        border: 2px solid blue;
+			color:blue;
+			background-color:#fff6c4;
+			padding: 6
+		}
+
+	}
+
+
+	h1,h2{
+			    background-color:darkred;
+			    color:red;
+			}
+body{
+	font-family:Times;
+	letter-spacing:3px;
+}
+
+div{
+	    #font-size:20;
+            background-color:white;
+            word-wrap: break-word;
+            width: 400px;
+            border: 7px solid red;	
+	    box-shadow: 0 0 50px #ff0000;
+            margin:50px auto;
+            padding:29px;
+   
+  }
+
+
+
+</style>
