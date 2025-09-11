@@ -1,28 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>	
 <rss version="2.0">
-	
-
 
 	<channel>
 		<title>SOFA YOGURT200</title>
 		<link>https://yogurt200.com</link>
 		
-		<item>
+	<item>
 		
-			<title>NEW THINGS IN SOFA'S SITE!</title>
-			<description>alphabet game, rabbit hole fiction</description>
-			<link>https://yogurt200.com/rgbpaw/reports/newsboard.html</link>
-		</item>
+		<title>NEW THINGS IN SOFA'S SITE!</title>
+		<description>alphabet game, rabbit hole fiction</description>
+		<link>https://yogurt200.com/rgbpaw/reports/newsboard.html</link>
+	</item>
 
 	<item>
 		
-			<title>FUN OLDER THINGS ADDED</title>
-			<description>3d custom girl screenshots and my old touhou fan comic!</description>
-			<link>https://yogurt200.com/archive/index.html</link>
-		</item>
-
-
-		<item>
+		<title>FUN OLDER THINGS ADDED</title>
+		<description>3d custom girl screenshots and my old touhou fan comic!</description>
+		<link>https://yogurt200.com/archive/index.html</link>
 	</item>
+
+
+	</item>dd
 
 
 
