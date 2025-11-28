@@ -41,7 +41,7 @@ global_variables() {
     global_software_version="2.10"
 
     # Blog title
-    global_title="<font color=red>red eyes pink rabbit</font>"
+    global_title="pink rabbit midnight festival"
     # The typical subtitle for each blog
     global_description="<i>little blog</i>"
     # The public base URL for this blog
