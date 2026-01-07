@@ -26,17 +26,17 @@ th{
 			    color:red;
 			}
 body{
-	font-family:Times;
-	letter-spacing:3px;
-}
+	font-family:times;
+	letter-spacing:3;
+		}
 
 div{
 	    #font-size:20;
-            background-color:white;
+            #background-color:white;
             word-wrap: break-word;
-            width: 400px;
-            border: 7px solid red;	
-	    box-shadow: 0 0 0px #ff0000;
+            width: 1000px;
+	    border: 3px solid blue;
+            #box-shadow: 0 0 0px #ff0000;
             margin:50px auto;
             padding:29px;
    

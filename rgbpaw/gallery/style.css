@@ -36,7 +36,7 @@ div{
             word-wrap: break-word;
             width: 700px;
             border: 3px solid red;
-	    box-shadow: 0 0 10px #ff0000;
+	    #box-shadow: 0 0 10px #ff0000;
             margin:50px auto;
             padding:29px;
    
