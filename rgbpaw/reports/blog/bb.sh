@@ -25,6 +25,8 @@
 # removed some globals , such as email
 
 
+ blog_feed="feed.rss"
+ number_of_feed_articles="10"
 
 # Global variables
 # It is recommended to perform a 'rebuild' after changing any of this in the code
@@ -332,8 +334,8 @@ create_html_page() {
         # one blog entry
         if [[ $index == no ]]; then
             echo '<!-- entry begin -->' # marks the beginning of the whole post
-	    echo "<h3>_____________________________</h3>"
-            echo "<h3><a class=\"ablack\" href=\"$file_url\">"
+	    echo "<h3>. . . . . . . . . . . . . . .</h3>"
+            echo "<h3><a class=\"ared\" href=\"$file_url\">"
             # remove possible <p>'s on the title because of markdown conversion
             title=${title//<p>/}
             title=${title//<\/p>/}
